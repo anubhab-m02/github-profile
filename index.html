@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>GitHub User Finder - Enhanced</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css"/>
+  <!-- Include Axios Library -->
+  <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+</head>
+<body>
+  <header>
+    <h1>GitHub User Finder</h1>
+    <button id="theme-toggle">Toggle Dark Mode</button>
+  </header>
+  <form id="form">
+    <input type="text" id="search" placeholder="Search a GitHub username..." autocomplete="off" />
+    <div id="search-history" class="search-history"></div>
+  </form>
+  <main id="main"></main>
+  <div id="spinner" class="spinner hidden"></div>
+  <script src="script.js"></script>
+  <script src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js"></script>
+</body>
+</html>
