@@ -43,7 +43,7 @@ Follow these instructions to set up the project on your local machine.
 2. **Navigate to the Project Directory**
 
    ```bash
-   cd github-profile
+   cd github-user-finder
    ```
 
 3. **Open `index.html` in Your Browser**
