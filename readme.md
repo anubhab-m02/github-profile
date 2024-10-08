@@ -37,7 +37,7 @@ Follow these instructions to set up the project on your local machine.
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/anubhab-m02/github-profile.git
+   git clone https://github.com/anubhab-m02/github-user-finder.git
    ```
 
 2. **Navigate to the Project Directory**
@@ -179,7 +179,7 @@ Contributions are welcome! Please follow these steps:
 2. **Clone Your Fork**
 
    ```bash
-   git clone https://github.com/anubhab-m02/github-profile.git
+   git clone https://github.com/anubhab-m02/github-user-finder.git
    ```
 
 3. **Create a New Branch**
